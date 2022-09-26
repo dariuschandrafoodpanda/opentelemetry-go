@@ -1,4 +1,4 @@
-module go.opentelemetry.io/otel
+module github.com/dariuschandrafoodpanda/opentelemetry-go
 
 go 1.18
 
